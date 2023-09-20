@@ -1,3 +1,6 @@
+*{
+  font-family: 'Nunito', sans-serif;
+}
 body{
     background-image: url("bgg.jpg");
     background-repeat: no-repeat;
@@ -8,7 +11,9 @@ body{
 .header{
   display: inline-flex;
 }
-.collaborate{
+#university{
+  width: 20%;
+  margin-bottom: 50px;
   margin-top: 60px;
   margin-left: 45rem;
 }
@@ -16,15 +21,14 @@ body{
   width:30%;
   /*height:100px;*/
 }
+ .collaborate{
+   margin-bottom: 33px;
+ }
 
-
-reg button{
-  float:right;
-}
   .card {
     max-width: 200px;
     margin: auto;
-    font-family: arial;
+    font-family: Nunito, sans-serif;
     background-color:#F76C6C ;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     text-align: center;
