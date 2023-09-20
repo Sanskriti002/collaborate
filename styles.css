@@ -5,12 +5,18 @@ body{
     background-color: transparent;
   
 }
-
- span img{
-  width:150px;
-  height:100px;
-  background-image: none;
+.header{
+  display: inline-flex;
 }
+.collaborate{
+  margin-top: 60px;
+  margin-left: 45rem;
+}
+ span img{
+  width:30%;
+  /*height:100px;*/
+}
+
 
 reg button{
   float:right;
