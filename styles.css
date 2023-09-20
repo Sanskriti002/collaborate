@@ -12,17 +12,21 @@ body{
 .header{
   display: inline-block;
 }
-.collaborate{
-  display: inline-flex;
+.logo{
+  width: 10%;
 }
 select{
   padding: 7px 10px 7px 2px;
-  border-radius: 15px;
+  /* border-radius: 15px; */
   background-color: #A8D0E6;
-  /* width: 20%; */
-  margin-bottom: 13px;
-  /* margin-top: 0px; */
+  width: 20%;
+  margin-bottom: 50px;
+  margin-top: 33px;
   margin-left: 58rem;
+}
+
+.logo{
+  width: 10%;
 }
 
 
